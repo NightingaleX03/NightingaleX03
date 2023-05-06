@@ -5,7 +5,7 @@ My name is Sarah (she/her) and I hope you are dong well! <br>
 
 *:O What am I doing right now? <br>*
 
-Thank you for asking! Right now I'm an honors undergrad in computer science. 
+Thank you for asking! Right now I'm doing an honors undergrad in computer science. 
 I'm always determined to learn something new and try out various programming languages! <br>
 
 ### Favorite inspiratonal Quote: :star2:
