@@ -22,7 +22,11 @@ I'm always determined to learn something new and try out various programming lan
 - :mortar_board: Intermediate Coding Experience in: Java, C++, Python, and HTML
 - :seedling: Elementary Coding Experience in: C#, Rust, Javascript, CSS and MAtLab
 
-Althought I have many interests I'm still finding an area in cs which suits me and interests me as a career :D Feel free to reach out to me Using the following platforms: 
+Althought I have many interests I'm still finding an area in cs which suits me and interests me as a career :D <br>
+I hope using github I'll be able to have fun with coding, make new connections, and learn more about my interests! <br>
+Feel free to reach out to me Using the following platforms: 
 
 - [Instagram](https://www.instagram.com/adventures_nightingalex/)
 - [LinkedIn](https://www.linkedin.com/in/sarah-mathew-0a4a06204/)
+
+Fun Fact: In my Free time I love to cook, compose songs, and sing :notes:
