@@ -1,7 +1,7 @@
 # About me - *nightingaleX*
 :wave: *Hello, How are you? :D <br>*
 
-My name is Sarah (she/her) and I hope you are dong well! <br>
+My name is Sarah and I hope you are dong well! <br>
 
 *:O What am I doing right now? <br>*
 
