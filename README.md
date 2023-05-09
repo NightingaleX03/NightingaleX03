@@ -20,7 +20,7 @@ I'm always determined to learn something new and try out various programming lan
 
 ### Skills:
 - :mortar_board: Intermediate Coding Experience in: Java, C++, Python, and HTML
-- :seedling: Elementary Coding Experience in: C#, Rust, Javascript, CSS and MAtLab
+- :seedling: Elementary Coding Experience in: C#, Rust, Javascript, CSS and MATLab
 
 Althought I have many interests I'm still finding an area in cs which suits me and interests me as a career :D <br>
 I hope using github I'll be able to have fun with coding, make new connections, and learn more about my interests! <br>
