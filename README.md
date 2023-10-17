@@ -5,7 +5,7 @@ My name is Sarah and I hope you are dong well! <br>
 
 *:O What am I doing right now? <br>*
 
-Thank you for asking! Right now I'm doing an advanced diploma in Computer Programming. 
+Thank you for asking! Right now I'm doing an advanced diploma in Computer Programming and an undergraduate degree in computer science. 
 I'm always determined to learn something new and try out various programming languages! <br>
 
 ### Favorite inspiratonal Quote: :star2:
