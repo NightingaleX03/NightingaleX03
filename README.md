@@ -19,13 +19,13 @@ I'm always determined to learn something new and try out various programming lan
 - :video_game: Game Deveopment
 
 ### Skills:
-- :mortar_board: Intermediate Coding Experience in: Java, C++, Python, and HTML
+- :mortar_board: Intermediate Coding Experience in: Java, C, C++, Python, and HTML
 - :seedling: Elementary Coding Experience in: C#, Rust, Javascript, CSS and MATLab
 
 Althought I have many interests I'm still finding an area in cs which suits me and interests me as a career :D <br>
 I hope using github I'll be able to have fun with coding, make new connections, and learn more about my interests! <br>
 Feel free to reach out to me Using the following platforms: 
 
-- [Instagram](https://www.instagram.com/adventures_nightingalex/)
+- [Instagram](https://www.instagram.com/nightingalex03/)
 
 Fun Fact: In my Free time I love to cook, compose songs, and sing :notes:
