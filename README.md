@@ -15,7 +15,6 @@ I'm always determined to learn something new and try out various programming lan
 - :computer: Software Engineering
 - :robot: AI
 - :globe_with_meridians: Data Science
-- :telescope:	Aerospace Engineering 
 - :video_game: Game Deveopment
 
 ### Skills:
