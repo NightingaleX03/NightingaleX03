@@ -32,4 +32,5 @@ Fun Fact: In my Free time I love to cook, compose songs, and sing :notes:
 
 ### My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NightingaleX03&theme=rose)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NightingaleX03&layout=compact)
 
