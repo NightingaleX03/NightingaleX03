@@ -8,7 +8,7 @@ My name is Sarah and I hope you are dong well! <br>
 Thank you for asking! Right now I'm doing an advanced diploma in Computer Programming and an undergraduate degree in computer science. 
 I'm always determined to learn something new and try out various programming languages! <br>
 
-### ![#a96970] `Favorite inspiratonal Quote:` :star2:
+### ![#a96970](Favorite inspiratonal Quote:) :star2:
 > “Coding, it's an endless process of trial and error, of trying to get the right command in the right place, with sometimes just a semicolon making the difference between success and failure. Code breaks and then it falls apart, and it often takes many, many tries until that magical moment when what you're trying to build comes to life.” - Reshma Saujani
 
 ### My Interests:
