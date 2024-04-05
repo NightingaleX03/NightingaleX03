@@ -1,8 +1,3 @@
-
-<table align="center"><tr><td align="center" width="9999">
-    <img src="images/Brown Wood Minimalist Profile LinkedIn Banner.png" width="800">
-</td></tr></table>
-
 # About me - *nightingaleX*
 :wave: *Hello, How are you? :D <br>*
 
