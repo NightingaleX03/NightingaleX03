@@ -29,3 +29,5 @@ Feel free to reach out to me Using the following platforms:
 - [LinkedIn](https://www.linkedin.com/in/sarah-mathew-0a4a06204/)
 
 Fun Fact: In my Free time I love to cook, compose songs, and sing :notes:
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nightingalex03&show_icons=true&locale=en" alt="nightingalex03" /></p>
