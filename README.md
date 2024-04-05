@@ -21,6 +21,8 @@ I'm always determined to learn something new and try out various programming lan
 - :mortar_board: Intermediate Coding Experience in: Java, C, C++, Python, and HTML
 - :seedling: Elementary Coding Experience in: C#, Rust, Javascript, CSS and MATLab
 
+  
+
 Althought I have many interests I'm still finding an area in cs which suits me and interests me as a career :D <br>
 I hope using github I'll be able to have fun with coding, make new connections, and learn more about my interests! <br>
 Feel free to reach out to me Using the following platforms: 
@@ -32,5 +34,6 @@ Fun Fact: In my Free time I love to cook, compose songs, and sing :notes:
 
 ### My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NightingaleX03&theme=rose)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NightingaleX03&layout=compact)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NightingaleX03&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NightingaleX03&layout=compact_icons=true&theme=dracula)
