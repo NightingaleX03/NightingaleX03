@@ -18,8 +18,11 @@ I'm always determined to learn something new and try out various programming lan
 - :video_game: Game Deveopment
 
 ### Skills:
-- :mortar_board: Intermediate Coding Experience in: Java, C, C++, Python, and HTML
-- :seedling: Elementary Coding Experience in: C#, Rust, Javascript, CSS and MATLab
+- :mortar_board: Programming Languages: https://img.shields.io/badge/C%2B%2B-ebb3b3, https://img.shields.io/badge/C-ebb3b3, https://img.shields.io/badge/Java-ebb3b3, https://img.shields.io/badge/Python-ebb3b3
+- :seedling: Development: https://img.shields.io/badge/JavaScript%20%2F%20HTML%20%2F%20CSS-ebb3b3, https://img.shields.io/badge/Android-ebb3b3
+- Database: https://img.shields.io/badge/MySQL-ebb3b3, https://img.shields.io/badge/MongoDB-ebb3b3
+- Frameworks: https://img.shields.io/badge/React-ebb3b3, https://img.shields.io/badge/Express-ebb3b3
+- Software: https://img.shields.io/badge/Visual_Studio_Code-ebb3b3, https://img.shields.io/badge/Android_Studio-ebb3b3
 
 
 Althought I have many interests I'm still finding an area in cs which suits me and interests me as a career :D <br>
