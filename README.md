@@ -5,7 +5,7 @@ My name is Sarah and I hope you are dong well! <br>
 
 *:O What am I doing right now? <br>*
 
-Thank you for asking! Right now I'm doing an advanced diploma in Computer Programming and an undergraduate degree in computer science. 
+Thank you for asking! Right now I'm doing an undergraduate degree in computer science, however I also do have a diploma in computer science from seneca polytechnic. 
 I'm always determined to learn something new and try out various programming languages! <br>
 
 ### (Favorite inspiratonal Quote:) :star2:
@@ -37,3 +37,4 @@ Fun Fact: In my Free time I love to cook, compose songs, and sing :notes:
 
 ### My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NightingaleX03&theme=rose)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
