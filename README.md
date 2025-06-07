@@ -17,13 +17,35 @@ I'm always determined to learn something new and try out various programming lan
 - :globe_with_meridians: Data Science
 - :video_game: Game Deveopment
 
-### Skills:
-- Programming Languages:  ![alt text](https://img.shields.io/badge/C%2B%2B-ebb3b3) ![alt text](https://img.shields.io/badge/C-ebb3b3) ![alt text](https://img.shields.io/badge/Java-ebb3b3) ![alt text](https://img.shields.io/badge/Python-ebb3b3)
-- Development:  ![alt text](https://img.shields.io/badge/JavaScript%20%2F%20HTML%20%2F%20CSS-ebb3b3) ![alt text](https://img.shields.io/badge/Android-ebb3b3)
-- Database:  ![alt text](https://img.shields.io/badge/MySQL-ebb3b3) ![alt text](https://img.shields.io/badge/MongoDB-ebb3b3)
-- Frameworks:  ![alt text](https://img.shields.io/badge/React-ebb3b3) ![alt text](https://img.shields.io/badge/Express.js-ebb3b3)
-- Software:  ![alt text](https://img.shields.io/badge/Visual_Studio_Code-ebb3b3) ![alt text](https://img.shields.io/badge/Android_Studio-ebb3b3)
+## 🛠️ Skills:
 
+### Programming Languages:
+<p align="center">
+  <a href="https://skillicons.dev">  
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css&theme=dark"/>
+  </a>
+</p>
+
+### Database:
+<p align="center">
+  <a href="https://skillicons.dev">  
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+  </a>
+</p>
+
+### Frameworks:
+<p align="center">
+  <a href="https://skillicons.dev">  
+    <img src="https://skillicons.dev/icons?i=react,express,angular,flask,node,reactnative&theme=dark"/>
+  </a>
+</p>
+
+### Software:
+<p align="center">
+  <a href="https://skillicons.dev">  
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github&theme=dark"/>
+  </a>
+</p>
 
 Althought I have many interests I'm still finding an area in cs which suits me and interests me as a career :D <br>
 I hope using github I'll be able to have fun with coding, make new connections, and learn more about my interests! <br>
