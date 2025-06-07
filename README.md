@@ -19,31 +19,9 @@ I'm always determined to learn something new and try out various programming lan
 
 ## 🛠️ Skills:
 
-### Programming Languages:
 <p align="center">
   <a href="https://skillicons.dev">  
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css&theme=dark"/>
-  </a>
-</p>
-
-### Database:
-<p align="center">
-  <a href="https://skillicons.dev">  
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
-  </a>
-</p>
-
-### Frameworks:
-<p align="center">
-  <a href="https://skillicons.dev">  
-    <img src="https://skillicons.dev/icons?i=react,express,angular,flask,node,reactnative&theme=dark"/>
-  </a>
-</p>
-
-### Software:
-<p align="center">
-  <a href="https://skillicons.dev">  
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,mysql,mongodb,react,express,angular,flask,node,vscode,androidstudio,git,github,tensorflow&perline=10&theme=dark"/>
   </a>
 </p>
 
