@@ -36,5 +36,8 @@ Feel free to reach out to me Using the following platforms:
 Fun Fact: In my Free time I love to cook, compose songs, and sing :notes:
 
 ### My Stats:
+
+![3D Profile Contributions](./profile-3d-contrib/profile-3d-contrib.png)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NightingaleX03&theme=rose)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
