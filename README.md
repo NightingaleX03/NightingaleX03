@@ -1,4 +1,4 @@
-# $\color{#F06292}{\textsf{Hi, I'm Sarah!}}$ - *nightingaleX* :sparkles:
+# $\color{#F06292}{\textsf{Hi, I'm Sarah!}}$
 
 ![3D Profile Contributions](./profile-3d-contrib/profile-custom-rainbow.svg)
 
