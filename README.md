@@ -22,13 +22,36 @@ I'm still learning, and that's honestly my favourite part. Every project teaches
 
 ## $\color{#F06292}{\textsf{Skills}}$
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript,react,node,express,angular,flask,mysql,mongodb,tensorflow,cmake,linux,git,github,vscode,androidstudio&perline=10&theme=dark"/>
-  </a>
-</p>
+#### Languages
+![C++](https://img.shields.io/badge/C++-F06292?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-F06292?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F06292?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F06292?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F06292?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-F06292?style=for-the-badge&logo=typescript&logoColor=white)
 
-$\color{#F8C8DC}{\textsf{Currently learning:}}$ HIP, ROCm, LLVM, GPU memory hierarchy, performance benchmarking
+#### GPU & Systems (currently learning)
+![HIP](https://img.shields.io/badge/HIP-D81B60?style=for-the-badge&logo=amd&logoColor=white)
+![ROCm](https://img.shields.io/badge/ROCm-D81B60?style=for-the-badge&logo=amd&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-D81B60?style=for-the-badge&logo=llvm&logoColor=white)
+
+#### Frameworks
+![React](https://img.shields.io/badge/React-F48FB1?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-F48FB1?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-F48FB1?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-F48FB1?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-F48FB1?style=for-the-badge&logo=angular&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-F48FB1?style=for-the-badge&logo=flask&logoColor=white)
+
+#### ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F8BBD0?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F8BBD0?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F8BBD0?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Tools
+![Git](https://img.shields.io/badge/Git-F06292?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-F06292?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-F06292?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ### $\color{#F06292}{\textsf{Favourite quote}}$
 > “Coding, it's an endless process of trial and error, of trying to get the right command in the right place, with sometimes just a semicolon making the difference between success and failure. Code breaks and then it falls apart, and it often takes many, many tries until that magical moment when what you're trying to build comes to life.” - Reshma Saujani
