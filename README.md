@@ -1,43 +1,40 @@
-# About me - *nightingaleX*
+# $\color{#F06292}{\textsf{Hi, I'm Sarah!}}$ - *nightingaleX* :sparkles:
 
 ![3D Profile Contributions](./profile-3d-contrib/profile-custom-rainbow.svg)
 
-:wave: *Hello, How are you? :D <br>*
+:wave: *Hello, how are you? :D*
 
-My name is Sarah and I hope you are dong well! <br> 
+I'm a Computer Science student at Ontario Tech University (and a Seneca Polytechnic CS diploma grad).
+Lately I've fallen in love with the layer between software and hardware: **GPU programming, compilers, and systems**. <br>
+I'm still learning, and that's honestly my favourite part. Every project teaches me something new about *why* code is fast or slow, not just how to make it work. <3
 
-*:O What am I doing right now? <br>*
+### :computer: $\color{#F06292}{\textsf{What I'm working on right now}}$
+- **ROCm GPU Kernel Suite**: my first time writing GPU kernels! Learning HIP on an AMD Radeon 8060S. So far I got vector add to ~90% of memory bandwidth and tiled matrix multiplication up to 2.8x faster than naive
+- **Lyra**: a statically-typed language I'm building in C++ to learn how compilers work, with a hand-written lexer, parser, and type checker. Now learning LLVM to build the backend
+- Software Engineer at **TiketFix**
+- Exploring New Cafes <3
 
-Thank you for asking! Right now I'm doing an undergraduate degree in computer science, however I also do have a diploma in computer science from seneca polytechnic. 
-I'm always determined to learn something new and try out various programming languages! <br>
+### :heart: $\color{#F06292}{\textsf{What I'm interested in (and learning about)}}$
+- GPU computing & high-performance code
+- Compilers & LLVM
+- AI infrastructure (making AI run fast on real hardware)
+- Game development (still a forever favourite)
 
-### (Favorite inspiratonal Quote:) :star2:
-> “Coding, it's an endless process of trial and error, of trying to get the right command in the right place, with sometimes just a semicolon making the difference between success and failure. Code breaks and then it falls apart, and it often takes many, many tries until that magical moment when what you're trying to build comes to life.” - Reshma Saujani
-
-### My Interests:
-- :computer: Software Engineering
-- :robot: AI
-- :globe_with_meridians: Data Science
-- :video_game: Game Deveopment
-
-## 🛠️ Skills:
+## :hammer_and_wrench: $\color{#F06292}{\textsf{Skills}}$
 
 <p align="center">
-  <a href="https://skillicons.dev">  
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,mysql,mongodb,react,express,angular,flask,node,vscode,androidstudio,git,github,tensorflow&perline=10&theme=dark"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript,react,node,express,angular,flask,mysql,mongodb,tensorflow,cmake,linux,git,github,vscode,androidstudio&perline=10&theme=dark"/>
   </a>
 </p>
 
-Althought I have many interests I'm still finding an area in cs which suits me and interests me as a career :D <br>
-I hope using github I'll be able to have fun with coding, make new connections, and learn more about my interests! <br>
-Feel free to reach out to me Using the following platforms: 
+$\color{#F8C8DC}{\textsf{Currently learning:}}$ HIP, ROCm, LLVM, GPU memory hierarchy, performance benchmarking
 
-- [Instagram](https://www.instagram.com/nightingalex03/)
+### $\color{#F06292}{\textsf{Favourite quote}}$
+> “Coding, it's an endless process of trial and error, of trying to get the right command in the right place, with sometimes just a semicolon making the difference between success and failure. Code breaks and then it falls apart, and it often takes many, many tries until that magical moment when what you're trying to build comes to life.” - Reshma Saujani
+
+### $\color{#F06292}{\textsf{Let's connect!}}$
 - [LinkedIn](https://www.linkedin.com/in/sarah-mathew-0a4a06204/)
 - [Devpost](https://devpost.com/NightingaleX03)
 
-Fun Fact: In my Free time I love to cook, compose songs, and sing :notes:
-
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NightingaleX03&theme=rose)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=rose)](https://github.com/anuraghazra/github-readme-stats)-->
-
+:notes: $\color{#F8C8DC}{\textsf{Fun fact:}}$ in my free time I love to cook, compose songs, and sing!
