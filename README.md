@@ -2,7 +2,7 @@
 
 <img alt="My contribution garden" src="garden/garden-black.svg" width="100%">
 
- $\color{#F3E3C3}{\textsf{Hello, how are you? :D}}$
+ ### $\color{#F3E3C3}{\textsf{Hello, how are you? :D}}$
 
 I'm a Computer Science student at Ontario Tech University (and a Seneca Polytechnic CS diploma grad).
 Lately I've fallen in love with the layer between software and hardware: **GPU programming, compilers, and systems**. <br>
@@ -53,4 +53,5 @@ I'm still learning, and that's honestly my favourite part. Every project teaches
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-$\color{#F3E3C3}{\textsf{Fun fact:}}$ in my free time I love to cook, compose songs, and sing!
+### $\color{#F3E3C3}{\textsf{Fun fact:}}$ 
+In my free time I love to cook, compose songs, and sing!
