@@ -1,6 +1,6 @@
 # Hi, I'm Sarah!
 
-<img alt="My contribution garden" src="garden/garden-dark.svg" width="100%">
+<img alt="My contribution garden" src="garden/garden-black.svg" width="100%">
 
 *Hello, how are you? :D*
 
