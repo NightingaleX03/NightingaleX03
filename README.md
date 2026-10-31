@@ -1,6 +1,6 @@
 # Hi, I'm Sarah!
 
-![3D Profile Contributions](./profile-3d-contrib/profile-custom-rainbow.svg)
+<img alt="My contribution garden" src="garden/garden.svg" width="100%">
 
 *Hello, how are you? :D*
 
