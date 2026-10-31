@@ -2,7 +2,7 @@
 
 <img alt="My contribution garden" src="garden/garden-black.svg" width="100%">
 
-*Hello, how are you? :D*
+ $\color{#F3E3C3}{\textsf{Hello, how are you? :D}}$
 
 I'm a Computer Science student at Ontario Tech University (and a Seneca Polytechnic CS diploma grad).
 Lately I've fallen in love with the layer between software and hardware: **GPU programming, compilers, and systems**. <br>
